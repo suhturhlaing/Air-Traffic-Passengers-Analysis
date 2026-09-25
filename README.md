@@ -76,6 +76,6 @@ air-traffic-passenger-analysis/
 ## Notes
 This repository contains the final analysis notebook. The README describes the dataset and workflow based on the notebook contents. Numerical findings should be read directly from the notebook outputs and visualizations.
 
-Air_traffic_Home_slide.png
+
 
 <img src="data/Air_traffic_Home_slide.png" alt="License"></a>
